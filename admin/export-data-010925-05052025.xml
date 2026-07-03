@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList>
+  <product>
+    <prod_id>12</prod_id>
+    <prod_photo>../prodphoto/Derma-Roller-Face-Acne-Scars-R-1678795558.webp</prod_photo>
+    <prod_name>Derma Roller</prod_name>
+    <prod_desc>very good for skin</prod_desc>
+    <prod_shots/>
+    <prod_price>5.00</prod_price>
+    <prod_stock>35</prod_stock>
+    <category_id>10</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>13</prod_id>
+    <prod_photo>../prodphoto/safe-protect-sunscreen-for-babies-1800x1800_1_.jpg</prod_photo>
+    <prod_name>Sunscreen</prod_name>
+    <prod_desc>good for blacks</prod_desc>
+    <prod_shots/>
+    <prod_price>5.99</prod_price>
+    <prod_stock>46</prod_stock>
+    <category_id>8</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>14</prod_id>
+    <prod_photo>../prodphoto/cerave.jpg</prod_photo>
+    <prod_name>Facial Cleanser</prod_name>
+    <prod_desc>cerave goat</prod_desc>
+    <prod_shots/>
+    <prod_price>23.99</prod_price>
+    <prod_stock>24234</prod_stock>
+    <category_id>10</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>15</prod_id>
+    <prod_photo>../prodphoto/celeteque.jpg</prod_photo>
+    <prod_name>Moisturizer</prod_name>
+    <prod_desc>dermatologist tested</prod_desc>
+    <prod_shots/>
+    <prod_price>2.99</prod_price>
+    <prod_stock>120</prod_stock>
+    <category_id>10</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>17</prod_id>
+    <prod_photo>../prodphoto/shampoo.avif</prod_photo>
+    <prod_name>Shampoo</prod_name>
+    <prod_desc>cleanses scalp</prod_desc>
+    <prod_shots/>
+    <prod_price>3.85</prod_price>
+    <prod_stock>230</prod_stock>
+    <category_id>11</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>18</prod_id>
+    <prod_photo>../prodphoto/conditioner.jpg</prod_photo>
+    <prod_name>Conditioner</prod_name>
+    <prod_desc>moisture revival</prod_desc>
+    <prod_shots/>
+    <prod_price>4.05</prod_price>
+    <prod_stock>678</prod_stock>
+    <category_id>11</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>19</prod_id>
+    <prod_photo>../prodphoto/beardoil.jpg</prod_photo>
+    <prod_name>Beard Oil</prod_name>
+    <prod_desc>grows beard</prod_desc>
+    <prod_shots/>
+    <prod_price>21.99</prod_price>
+    <prod_stock>56</prod_stock>
+    <category_id>12</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>20</prod_id>
+    <prod_photo>../prodphoto/beardbalm.jpg</prod_photo>
+    <prod_name>Beard Balm</prod_name>
+    <prod_desc>styles beard</prod_desc>
+    <prod_shots/>
+    <prod_price>19.10</prod_price>
+    <prod_stock>38</prod_stock>
+    <category_id>12</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>21</prod_id>
+    <prod_photo>../prodphoto/bodywash.avif</prod_photo>
+    <prod_name>Body Wash</prod_name>
+    <prod_desc>deeply nourishing</prod_desc>
+    <prod_shots/>
+    <prod_price>10.09</prod_price>
+    <prod_stock>61</prod_stock>
+    <category_id>8</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>22</prod_id>
+    <prod_photo>../prodphoto/deo.webp</prod_photo>
+    <prod_name>Deodorant</prod_name>
+    <prod_desc>removes putok</prod_desc>
+    <prod_shots/>
+    <prod_price>21.39</prod_price>
+    <prod_stock>681</prod_stock>
+    <category_id>8</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>24</prod_id>
+    <prod_photo>../prodphoto/gel.webp</prod_photo>
+    <prod_name>Hair Gel</prod_name>
+    <prod_desc>olive oil flavor</prod_desc>
+    <prod_shots/>
+    <prod_price>31.19</prod_price>
+    <prod_stock>3</prod_stock>
+    <category_id>11</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>25</prod_id>
+    <prod_photo>../prodphoto/pomade.avif</prod_photo>
+    <prod_name>Pomade</prod_name>
+    <prod_desc>matte moulder</prod_desc>
+    <prod_shots/>
+    <prod_price>2.99</prod_price>
+    <prod_stock>11</prod_stock>
+    <category_id>11</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>26</prod_id>
+    <prod_photo>../prodphoto/shavingcream.jpg</prod_photo>
+    <prod_name>Shaving Cream</prod_name>
+    <prod_desc>for men</prod_desc>
+    <prod_shots/>
+    <prod_price>2.77</prod_price>
+    <prod_stock>18</prod_stock>
+    <category_id>12</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>27</prod_id>
+    <prod_photo>../prodphoto/nailclip.jpg</prod_photo>
+    <prod_name>Nail Clipper</prod_name>
+    <prod_desc>trims nails</prod_desc>
+    <prod_shots/>
+    <prod_price>3.50</prod_price>
+    <prod_stock>35</prod_stock>
+    <category_id>8</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>28</prod_id>
+    <prod_photo>../prodphoto/eyecream.avif</prod_photo>
+    <prod_name>Eye Cream</prod_name>
+    <prod_desc>for bright eyes</prod_desc>
+    <prod_shots/>
+    <prod_price>2.90</prod_price>
+    <prod_stock>15</prod_stock>
+    <category_id>10</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>29</prod_id>
+    <prod_photo>../prodphoto/dryshampoo.avif</prod_photo>
+    <prod_name>Dry Shampoo</prod_name>
+    <prod_desc>shampoo but dry</prod_desc>
+    <prod_shots/>
+    <prod_price>4.99</prod_price>
+    <prod_stock>12</prod_stock>
+    <category_id>11</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>30</prod_id>
+    <prod_photo>../prodphoto/beardsghampoo.avif</prod_photo>
+    <prod_name>Beard Shampoo</prod_name>
+    <prod_desc>and conditioner with aloe vera</prod_desc>
+    <prod_shots/>
+    <prod_price>11.95</prod_price>
+    <prod_stock>68</prod_stock>
+    <category_id>12</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>31</prod_id>
+    <prod_photo>../prodphoto/aftershave.avif</prod_photo>
+    <prod_name>Aftershave Balm</prod_name>
+    <prod_desc>use before shaving</prod_desc>
+    <prod_shots/>
+    <prod_price>14.99</prod_price>
+    <prod_stock>18</prod_stock>
+    <category_id>12</category_id>
+    <prod_created>2025-04-19</prod_created>
+    <prod_updated>2025-04-20</prod_updated>
+  </product>
+  <product>
+    <prod_id>32</prod_id>
+    <prod_photo>../prodphoto/From-Your-Feed-Ice-Roller-for-Face-Pink-Facial-Massage-to-Reduce-Puffiness_c01035b5-d6bf-4058-829a-c59c38d345c8.eb44abd9e3d655e999570f622c49a389.webp</prod_photo>
+    <prod_name>Ice Roller</prod_name>
+    <prod_desc>depuff your face</prod_desc>
+    <prod_shots/>
+    <prod_price>1.85</prod_price>
+    <prod_stock>105</prod_stock>
+    <category_id>10</category_id>
+    <prod_created>2025-04-21</prod_created>
+    <prod_updated>2025-04-21</prod_updated>
+  </product>
+  <product>
+    <prod_id>33</prod_id>
+    <prod_photo>../prodphoto/lotion.webp</prod_photo>
+    <prod_name>Body Lotion</prod_name>
+    <prod_desc>prevent black skin</prod_desc>
+    <prod_shots/>
+    <prod_price>19.10</prod_price>
+    <prod_stock>61</prod_stock>
+    <category_id>8</category_id>
+    <prod_created>2025-04-21</prod_created>
+    <prod_updated>2025-04-21</prod_updated>
+  </product>
+</productList>
